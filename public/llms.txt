@@ -40,7 +40,10 @@ Information about WCAG compliance and accessibility features.
 
 ## How to Contact Us
 
-- (No contact details configured yet.)
+- Email: shabi@heydigi.dev
+- Phone: +972534877149
+- Phone (tel): tel:+972534877149
+- Address: alber kami 2, ashdod, 7766013, ישראל
 
 ### Contact form
 - URL: https://example.com/contact
