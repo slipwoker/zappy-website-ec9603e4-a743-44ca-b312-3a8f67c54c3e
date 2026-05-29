@@ -1,0 +1,78 @@
+# HeyDigi — Generative Engine Optimization Map
+
+> HeyDigi is a digital agency or web development studio with an existing website at heydigi.dev. The user wants to replicate the full website with all its features and functionality, suggesting a professional, modern digital services brand.
+
+---
+
+## Pages
+
+### בית
+https://example.com
+HeyDigi היא סוכנות דיגיטלית מובילה שמביאה רעיונות לחיים עם עיצוב חכם ופיתוח מתקדם. גלה כיצד אנחנו הופכים עסקים למותגים חזקים ברשת.
+
+### שירותים
+https://example.com/services
+מפיתוח אתרים ועד שיווק דיגיטלי מלא — שירותי HeyDigi מותאמים אישית לצרכי העסק שלך. גלה את החבילה המושלמת שתקפיץ אותך קדימה.
+
+### עבודות
+https://example.com/work
+תיק העבודות של HeyDigi מציג פרויקטים דיגיטליים מרשימים שביצענו עבור לקוחות מובילים. התרשם מהעבודות שלנו וגלה מה אנחנו יכולים לבנות עבורך.
+
+### צור קשר
+https://example.com/contact
+מוכן לקחת את העסק שלך לשלב הבא? צור קשר עם צוות HeyDigi עוד היום ונבנה יחד את הפתרון הדיגיטלי המושלם שיגדיל את ההכנסות שלך.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About HeyDigi
+HeyDigi is a digital agency or web development studio with an existing website at heydigi.dev. The user wants to replicate the full website with all its features and functionality, suggesting a professional, modern digital services brand.
+
+## Target Audience
+- בעלי עסקים טכנולוגיים
+- מנהלי שיווק
+- מייסדי סטארטאפים
+
+## Industry
+Digital Agency
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
